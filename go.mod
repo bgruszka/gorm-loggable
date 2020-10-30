@@ -1,4 +1,4 @@
-module gorm-loggable
+module github.com/bgruszka/gorm-loggable
 
 go 1.15
 
