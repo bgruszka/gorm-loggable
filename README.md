@@ -1,7 +1,7 @@
 # gorm-loggable
 Loggable plugin for gorm v2
 
-#How to use it?
+## How to use it?
 ```
 go get github.com/bgruszka/gorm-loggable
 ```
